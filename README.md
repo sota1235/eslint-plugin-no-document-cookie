@@ -1,5 +1,7 @@
 # eslint-plugin-no-document-cookie
 
+[![npm version](https://badge.fury.io/js/eslint-plugin-no-document-cookie.svg)](https://badge.fury.io/js/eslint-plugin-no-document-cookie) [![Build Status](https://travis-ci.org/sota1235/eslint-plugin-no-document-cookie.svg?branch=master)](https://travis-ci.org/sota1235/eslint-plugin-no-document-cookie)
+
 find document.cookie
 
 ## Installation
