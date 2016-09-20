@@ -1,13 +1,13 @@
 {
   "name": "eslint-plugin-no-document-cookie",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "find document.cookie",
   "keywords": [
     "eslint",
     "eslintplugin",
     "eslint-plugin"
   ],
-  "author": "Sota Sugiura",
+  "author": "sota1235",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha tests --recursive"
@@ -22,5 +22,5 @@
   "engines": {
     "node": ">=0.10.0"
   },
-  "license": "ISC"
+  "license": "MIT"
 }
