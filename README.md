@@ -1,6 +1,9 @@
 # eslint-plugin-no-document-cookie
 
-[![npm version](https://badge.fury.io/js/eslint-plugin-no-document-cookie.svg)](https://badge.fury.io/js/eslint-plugin-no-document-cookie) [![Build Status](https://travis-ci.org/sota1235/eslint-plugin-no-document-cookie.svg?branch=master)](https://travis-ci.org/sota1235/eslint-plugin-no-document-cookie)
+[![npm version](https://badge.fury.io/js/eslint-plugin-no-document-cookie.svg)](https://badge.fury.io/js/eslint-plugin-no-document-cookie)
+[![Build Status](https://travis-ci.org/sota1235/eslint-plugin-no-document-cookie.svg?branch=master)](https://travis-ci.org/sota1235/eslint-plugin-no-document-cookie)
+[![dependencies Status](https://david-dm.org/sota1235/eslint-plugin-no-document-cookie/status.svg)](https://david-dm.org/sota1235/eslint-plugin-no-document-cookie)
+[![devDependencies Status](https://david-dm.org/sota1235/eslint-plugin-no-document-cookie/dev-status.svg)](https://david-dm.org/sota1235/eslint-plugin-no-document-cookie?type=dev)
 
 find document.cookie
 
