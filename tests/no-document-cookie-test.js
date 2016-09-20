@@ -15,14 +15,9 @@ ruleTester.run('no-document-cookie', rule, {
     'document.hoge',
   ],
   invalid: [
-  ],
-  /*invalid: [
     {
       code: 'document.cookie',
-      errors: [{
-        message: 'Unexpected use of "document.cookie".',
-        type: 'WithVariable',
-      }],
+      errors: ['Unexpected use of "document.cookie".'],
     },
-  ],*/
+  ],
 });
